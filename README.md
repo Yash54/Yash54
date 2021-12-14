@@ -2,7 +2,6 @@
 
 * I'm pursuing B Tech in Computer engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/). 
 * My main interests are web development & competitive programming.
-* I have also worked on App Development and Machine Learning little bit.
 
 
 ## Skills
@@ -11,7 +10,7 @@
 var tech_stack = {
       programming_languages : [ C, Java, Python, C#, Javascript, ],
       technoliges : [ "Web Development", "App Development(Beginner)","Machine Learning(Beginner)", ],
-      frameworks : [ Django, ASP.NET, ASP.NET_core, Angular, React, NodeJs, ExpressJs, ReactNative ],
+      frameworks : [ Django, ASP.NET, ASP.NET_core, React, NodeJs, ExpressJs, ReactNative ],
       tools : [ "Visual Studio Code", "Visual Studio", "PyCharm" ],
 }
 ```
